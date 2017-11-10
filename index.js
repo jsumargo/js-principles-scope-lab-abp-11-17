@@ -23,7 +23,7 @@ let favoriteCustomer = 'claire';
 
 function attemptTwoFavoriteCustomers(){
   console.log(favoriteCustomer);
-  let favoriteCustomer = 123;
+  //let favoriteCustomer = 123;
 }
 
 attemptTwoFavoriteCustomers();
